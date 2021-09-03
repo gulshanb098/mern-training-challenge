@@ -1,0 +1,21 @@
+{
+  "name": "node-challenge",
+  "version": "1.0.0",
+  "description": "Build a CRUD Api for Product using NodeJS / Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node-challenge"
+  ],
+  "author": "Gulshan",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4"
+  }
+}

@@ -1,0 +1,17 @@
+Problem:
+--------
+
+Build a CRUD Api for Product using NodeJS / Express . Product model contains 3 fields (id, title and description) 
+API endpoints:
+
+Duration: 4 hr
+
+GET /api/products => Get ALL products
+GET /api/products/1 => Get product detail
+POST /api/products => Create new product
+PUT /api/products/1 => Update Product
+DELETE /api/products/1 => Delete product from array
+
+Note: Maintain your Product list in Array. Not looking any database integration here
+Test your API using Postman
+
